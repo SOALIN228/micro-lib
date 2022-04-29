@@ -1,0 +1,11 @@
+{
+  "name": "micro-lib",
+  "version": "1.0.0",
+  "description": "实验版-微前端框架",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "soalin228",
+  "license": "ISC"
+}
